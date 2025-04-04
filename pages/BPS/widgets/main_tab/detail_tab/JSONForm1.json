@@ -394,7 +394,7 @@
       "position": -1,
       "sourceData": {
         "api_type": "BPS OMNI-CHECK API",
-        "created": 1.7073919959E12,
+        "created": 1707391995900,
         "id": 1170,
         "patient_id": "2011302",
         "response_json": "{\"transactionId\":\"9ddea6d6-da20-4ad8-b255-0862573d864d\",\"At_Risk_for_MP_AAP\":\"U|U\",\"At_Risk_Indicator_1\":\"\",\"At_Risk_Indicator_2\":\"\",\"Maximizer_Program_Name\":\"\",\"flag\":\"\",\"risk_analysis\":\"{\\\"0\\\":{\\\"transactionId\\\":\\\"cd21e7e0-c423-410f-ae53-743f82309723\\\",\\\"maximizer\\\":false,\\\"maximizerProgramName\\\":\\\"\\\",\\\"calculatedWac\\\":2613.14,\\\"coinsurance\\\":4.7835171479522725,\\\"flags\\\":[],\\\"valuesToCheck\\\":[[838,\\\"ANNUAL BENEFIT CAP / 12 + PAY AS LITTLE AS (ROUNDED)\\\"],[833,\\\"ANNUAL BENEFIT CAP / 12 (ROUNDED)\\\"],[838.3333333333334,\\\"ANNUAL BENEFIT CAP / 12 + PAY AS LITTLE AS\\\"],[833.3333333333334,\\\"ANNUAL BENEFIT CAP / 12\\\"]]}}\"}",
